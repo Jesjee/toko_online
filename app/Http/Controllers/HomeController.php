@@ -2,7 +2,7 @@
  
 namespace App\Http\Controllers;
  
-use Inertia\Inertia;   // ← tambahkan baris import ini
+use Inertia\Inertia;   
 use Inertia\Response;
  
 class HomeController extends Controller
